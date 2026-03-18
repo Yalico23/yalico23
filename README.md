@@ -27,7 +27,7 @@ Soy un desarrollador de software apasionado por construir soluciones robustas, e
 
 📫 **Contacto**
 - Email: [jeanpiero_23_01@hotmail.com](mailto:jeanpiero_23_01@hotmail.com)  
-- Portafolio Web: [https://portfolio.yalicodev.online](https://portfolio.yalicodev.online)  
+- Portafolio Web: [https://portfolio.yalicodev.online](https://yalicodev.netlify.app)  
 - Teléfono: +51 941 077 834  
 - Ubicación: Lima, Perú
 

@@ -33,7 +33,9 @@ Tengo experiencia construyendo **microservicios, APIs RESTful y sistemas distrib
 
 ### 🗄️ Bases de Datos
 - SQL Server  
-- MongoDB  
+- MongoDB
+- MySQL
+- PostgreSQL
 - Redis  
 
 ### 🧪 Testing & Quality
